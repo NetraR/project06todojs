@@ -90,12 +90,12 @@
   }
   .index3_box>p{
       font-size:1.5rem;
-      color: tomato;
+      color: rgb(160, 63, 216);
   }
   .index3_box>p~input[type=text]{
       width:20rem;
       height:2.5rem;
-      border:2px solid tomato;
+      border:2px solid rgb(160, 63, 216);
       border-radius:0.5rem;
       margin:0.5rem 0 1rem 0;
       box-shadow:0.1rem 0.1rem 0.3rem 0.09rem rgb(211, 211, 211);
@@ -103,7 +103,7 @@
   .add_button{
       width:6.5rem;
       height:2.6rem;
-      background-color:tomato;
+      background-color:rgb(160, 63, 216);
       color: white;
       border:0;
       border-radius:1.2rem;
@@ -113,7 +113,7 @@
   .add_button2{
     width:6.5rem;
     height:2.5rem;
-    background-color:tomato;
+    background-color:rgb(160, 63, 216);
     color: white;
     border:0;
     border-radius:1.2rem;
@@ -126,7 +126,7 @@
     top: 0.5rem;
     right:1rem;
     font-size:2rem;
-    color: tomato;
+    color: rgb(123, 67, 196);
     cursor: pointer;
     border:hidden;
     background: none;
@@ -146,14 +146,14 @@
   .index_box{
     width:17rem;
     height:25rem;
-    border:2px solid tomato;
+    border:2px solid rgb(160, 63, 216);
     margin:0.5rem 0.25rem 2.5rem 0.25rem;
     border-radius:1rem;
     box-shadow:0.6rem 0.6rem 0.8rem 0.1rem rgb(211, 211, 211);
   }
   .index_box>p:first-child{
     font-size:1.9rem;
-    color: tomato;
+    color: rgb(160, 63, 216);
     text-align: center;
     margin:1.8rem 0 0.5rem 0;
   }
@@ -171,7 +171,7 @@
     justify-content:center;
     align-items:center;
     margin:auto;
-    color:tomato;
+    color:rgb(160, 63, 216);
     font-size:1.2rem;
     letter-spacing:1px;
   }
@@ -189,7 +189,7 @@
   }
   
   .task_trash{
-    color:tomato;
+    color:rgb(160, 63, 216);
     font-size:1.8rem;
     margin:0 0 0 0.5rem;
     cursor: pointer;
@@ -216,7 +216,7 @@
     margin:2rem 0 0 40rem;
   }
   .no_item{
-    color:tomato;
+    color:rgb(160, 63, 216);
     opacity:0.8;
     margin:2rem 0 0 15rem;
     font-family: 'Roboto', sans-serif;
@@ -249,7 +249,7 @@
     cursor:pointer;
   }
   .new_page_title{
-    color:tomato;
+    color:rgb(160, 63, 216);
     font-size:4rem;
   }
   
