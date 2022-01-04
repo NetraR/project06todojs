@@ -6,7 +6,7 @@
   body{
       position: relative;
       font-family: "adobe-clean", sans-serif;
-      background-color:white;
+      background-color:rgb(241, 236, 236);
       padding: 0;
       margin: 0;
   }
@@ -38,7 +38,7 @@
     color:gray;
   }
   .index_plus{
-      color: tomato;
+      color: rgb(26, 4, 223);
       margin:0 0px 0 0;
       font-size:2.8rem;
   }
@@ -221,6 +221,7 @@
     margin:2rem 0 0 15rem;
     font-family: 'Roboto', sans-serif;
     font-size:2.5rem;
+    font-weight: bold;
   }
   .title{
     cursor: pointer;
